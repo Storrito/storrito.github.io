@@ -2,6 +2,12 @@
 layout: post
 title: How To post Instagram Stories from your PC
 image: /images/how-to-post/how-to-post.png
+description: Post and schedule Instagram story videos and images from your pc.
+author: Storrito
+twitter:
+  username: StorritoFresh
+categories: Instagram
+tags: Instagram stories schedule animation pc computer desktop
 ---
 
 ![How to post](/images/how-to-post/how-to-post.png "How to post")
