@@ -10,7 +10,7 @@ categories: Instagram
 tags: Instagram stories schedule animation pc computer desktop
 ---
 
-![How to post](/images/how-to-post/how-to-post.png "How to post")
+![How to post](/images/how-to-post/how-to-post.png "How to post Instagram stories from your PC")
 
 Instagram Stories have been extremely successful last year. Although they were said to be the dead Copy-Cat of Snapchat the actual user-numbers indicate a different picture. With more than 250.000.000 daily users (Instagram, August 2017) and about 7.000.000.000 (yes, there are a lot of zeros in this sentence) the facebook giant outperformes Snapchat by roughly 100.000.000 users (Business Insider, June 2017) – every day!
 <!--more-->
@@ -22,7 +22,7 @@ More than ⅓ of the most seen insta story content is provided by brands or agen
 
 But enough of the number-dropping – what’s really making Instagram stories valuable is that it’s a free platform to present your story to a huge audience either as a private person, influencer or business. No matter if you’re showing behind the scenes pictures of your concert, a “how to”-tutorial or answer questions of your followers, you are the one to decide what to show and can react on trends and consumers within seconds. As stories elements only last for 24 hours you are able to plan self-contained “story-packages” with a concept that underlines your qualities.
 
-!["Post Quality"](/images/how-to-post/post-quality.png "Post Quality")
+!["Post Quality"](/images/how-to-post/post-quality.png "Post quality is key")
 
 ## Why is the production of an instargram story so painful?
 
