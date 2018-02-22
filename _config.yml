@@ -16,7 +16,7 @@
 title: Storrito Blog
 email: support@storrito.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Post and schedule your Instagram stories with Storrito
+  Post and schedule your Instagram stories with Storrito.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: StorritoFresh
