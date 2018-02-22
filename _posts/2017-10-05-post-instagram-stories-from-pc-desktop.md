@@ -2,6 +2,12 @@
 layout: post
 title: How To post Instagram Stories from your PC
 image: /images/how-to-post/how-to-post.png
+description: Post and schedule Instagram story videos and images from your pc.
+author: Storrito
+twitter:
+  username: StorritoFresh
+categories: Instagram
+tags: Instagram stories schedule animation pc computer desktop
 excerpt: <div><p><img src="/images/how-to-post/how-to-post.png"></img></p><p>Instagram Stories have been extremely successful last year. Although they were said to be the dead Copy-Cat of Snapchat the actual user-numbers indicate a different picture. With more than 250.000.000 daily users (Instagram, August 2017) and about 7.000.000.000 (yes, there are a lot of zeros in this sentence) the facebook giant outperformes Snapchat by roughly 100.000.000 users (Business Insider, June 2017) – every day!</p></div>
 ---
 
