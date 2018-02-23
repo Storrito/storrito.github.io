@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-  height: 66px;
+  height: 56px;
   background-color: $storrito-red;
 
   // Positioning context for the mobile navigation icon
@@ -17,7 +17,7 @@
 
 .site-nav {
   float: right;
-  line-height: $base-line-height * $base-font-size * 1.8;
+  line-height: $base-line-height * $base-font-size * 1.55;
 
   .nav-trigger {
       display: none;
@@ -33,7 +33,7 @@
       color: $black;
     }
     line-height: $base-line-height;
-    font-size: 15px;
+    font-size: 0.9rem;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.085em;
@@ -42,6 +42,12 @@
     &:not(:last-child) {
       margin-right: 20px;
     }
+  }
+
+  .storrito-app-link {
+    padding: 10px 14px;
+    background-color: $white;
+    color: $storrito-red;
   }
 
   @include media-query($on-palm) {
