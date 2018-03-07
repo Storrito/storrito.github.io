@@ -9,6 +9,7 @@ twitter:
 categories: Instagram
 tags: Instagram story Analyse
 lang: de_DE
+hidden: true
 ---
 
 ![Analyse](/images/analyse/analyse.jpg "Wir haben die Instagram Stories von 1500 Accounts analysiert.")
