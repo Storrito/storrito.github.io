@@ -104,20 +104,68 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: lighten($brand-color, 30%);
+    color: lighten($brand-color, 10%);
+  }
+
+  &:hover {
+    color: $brand-color;
+    text-decoration: underline;
+  }
+
+  .social-media-list {
+    color: #000;
+
+    &:hover {
+      text-decoration: none;
+
+      .username {
+        text-decoration: underline;
+      }
+    }
+  }
+
+
+}
+
+a.post-link {
+  color: #000;
+  text-decoration: none;
+
+  &:visited {
+    color: lighten(#000, 30%);
   }
 
   &:hover {
     color: $text-color;
     text-decoration: underline;
   }
+}
 
-  .social-media-list &:hover {
-    text-decoration: none;
+.social-media-list a {
+  color: #000;
+  text-decoration: none;
 
-    .username {
-      text-decoration: underline;
-    }
+  &:visited {
+    color: lighten(#000, 30%);
+  }
+
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+  }
+}
+
+.contact-list a {
+  color: #000;
+  text-decoration: none;
+
+  &:visited {
+    color: lighten(#000, 30%);
+  }
+
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
   }
 }
 
