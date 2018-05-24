@@ -1,0 +1,16 @@
+---
+layout: post
+title: How to add text to your Instagram story
+image: /images/how-to-add-text-to-your-instagram-story.jpg
+description: How to add text to your Instagram story
+author: Storrito
+twitter:
+  username: StorritoFresh
+categories: Instagram
+tags: Instagram editor
+---
+
+We created a short tutorial on how to add text to your Instagram story
+with the Storrito editor:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5LCqaSvad2M?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
