@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to add text to your Instagram story
-image: /images/how-to-add-text-to-your-instagram-story.jpg
+image: /images/how-to-add-text-to-your-instagram-story.png
 description: How to add text to your Instagram story
 author: Storrito
 twitter:
