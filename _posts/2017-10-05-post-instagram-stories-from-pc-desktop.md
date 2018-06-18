@@ -24,7 +24,7 @@ But enough of the number-dropping – what’s really making Instagram stories v
 
 !["Post Quality"](/images/how-to-post/post-quality.png "Post quality is key")
 
-## Why is the production of an instargram story so painful?
+## Why is the production of an Instagram story so painful?
 
 Let’s face it, brands and agencies plan and schedule each single posting in advance. Whether it’s a facebook-quote, pinterest series or a nicely photoshopped picture for the Instagram feed, they need to be in total control of the way each single posting looks like. Instagram stories, likewise to Snapchat stories, only support fotos or videos that are on your mobile devices for not longer than 24 hours.
 
