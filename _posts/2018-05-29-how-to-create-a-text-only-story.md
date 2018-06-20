@@ -12,4 +12,4 @@ tags: Instagram
 
 Learn how to use [Storrito](https://storrito.com) to create an Instagram story that only contains text on a solid background:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0hYY_dJHwcU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="width: 560px; height: 315px; max-width: 100%" src="https://www.youtube.com/embed/0hYY_dJHwcU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

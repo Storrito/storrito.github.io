@@ -12,4 +12,4 @@ tags: Instagram
 
 Learn how to add an usertag to an Instagram story with Storrito.com
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djFC0A5bvp0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="width: 560px; height: 315px; max-width: 100%" src="https://www.youtube.com/embed/djFC0A5bvp0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

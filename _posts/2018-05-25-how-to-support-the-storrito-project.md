@@ -12,4 +12,4 @@ tags: Instagram editor
 
 We added a new element to our story editor that you can use, if you like to support us. Look for the little cute Storrito family :)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iYvV0xkRBAc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="width: 560px; height: 315px; max-width: 100%" src="https://www.youtube.com/embed/iYvV0xkRBAc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

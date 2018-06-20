@@ -12,4 +12,4 @@ tags: Instagram schedule
 
 New tutorial video - learn how to post multiple Instagram stories in a row:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6IJwFgwt7iw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="width: 560px; height: 315px; max-width: 100%" src="https://www.youtube.com/embed/6IJwFgwt7iw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

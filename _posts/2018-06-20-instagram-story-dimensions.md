@@ -123,7 +123,7 @@ the image or video by clicking the `Download` button (see blue arrow).
 
 I've also covered the whole topic in the tutorial video below:
 
-<iframe width="840" height="472" src="https://www.youtube.com/embed/Twlhtjs93Uc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe style="width: 840px; height: 472px; max-width: 100%" src="https://www.youtube.com/embed/Twlhtjs93Uc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 If there is anything missing, we are happy to help. Just click on the
 red circle in the lower right corner of this webpage to reach out to
