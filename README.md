@@ -8,3 +8,10 @@ When you changed something in _config.yml run
   bundle exec jekyll serve
 
 again.
+
+
+## Tools
+
+## How to convert all png screenshots to jpg files
+
+    mogrify -format jpg -resize 840 *.*
