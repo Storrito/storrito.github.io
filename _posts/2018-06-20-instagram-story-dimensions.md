@@ -34,7 +34,7 @@ Width: **720** px
 
 Height: **1280** px
 
-The video format should be mp4 (9:6 aspect ratio, 30 fps, h264,
+The video format should be mp4 (9:16 aspect ratio, 30 fps, h264,
 yuv420p).
 
 ## Beware of the Instagram controls
