@@ -63,6 +63,10 @@ the `+ ADD NEW INSTAGRAM ACCOUNT` button (see orange oval).
 
 ![Storrito](/images/instagram-sessionid-cookie/storrito.png "Storrito")
 
+Afterwards the Instagram account will appear in the list below the
+button. You can now also close the incoginto tab, please do not click
+on logout there, since this would discount Storrito from Instagram.
+
 If you have any problems please contact our Storrito support
 (support@storrito.com) or click the red circle in the right bottom
 corner.
