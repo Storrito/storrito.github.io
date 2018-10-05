@@ -10,14 +10,20 @@ tags: Instagram
 hidden: true
 ---
 
-Storrito's new Instagram Connect uses a so-called cookie to log into
-your Instagram account. This is required to let Storrito post stories
-on your Instagram account.
+We recommend to use our [Chrome
+extension](https://chrome.google.com/webstore/detail/plnpnichbepfpgbhineljllbhdpglkpn)
+or [Firefox
+Add-On](https://addons.mozilla.org/de/firefox/addon/storrito/) to do
+the Instagram Connect for your Storrito account. If you still want to
+do it manually, please find the instructions below.
+
+Storrito's Manual Instagram Connect uses a so-called cookie to log
+into your Instagram account. This is required to let Storrito post
+stories on your Instagram account.
 
 A cookie has name and contains a text. For the Instagram Connect we
 need the `sessionid` cookie. The section below describes how to
-extract this cookie. Soon Storrito will offer a Chrome extension and a
-Firefox add-on to make this super easy.
+extract this cookie.
 
 ## How to get the Instagram sessionid cookie
 
@@ -54,18 +60,24 @@ Edge:
 
 ## Connect your Instagram account to Storrito
 
-Please open a new browser tab and open:
+If you have not opened Storrito's Instagram Connect page, please open
+it:
 
-[https://app.storrito.com/#/instagram/connect](https://app.storrito.com/#/instagram/connect)
+<a href="https://app.storrito.com/#/instagram/connect" target="_blank">https://app.storrito.com/#/instagram/connect</a>
 
-There you paste the copied `sessionid` (see green oval), then click
-the `+ ADD NEW INSTAGRAM ACCOUNT` button (see orange oval).
+Then choose the 'Manual' connect option (see orange oval):
 
-![Storrito](/images/instagram-sessionid-cookie/storrito.png "Storrito")
+![Instagram-connect](/images/instagram-sessionid-cookie/instagram-connect.png "Instagram Connect")
 
-Afterwards the Instagram account will appear in the list below the
-button. You can now also close the incoginto tab, please do not click
-on logout there, since this would discount Storrito from Instagram.
+On the next page (shown below) you paste the copied `sessionid` (see
+orange oval), then click on the `CONNECT` button (see green oval).
+
+![Manual-Instagram-connect](/images/instagram-sessionid-cookie/manual-instagram-connect.png "Manual Instagram Connect")
+
+Afterwards the new connected Instagram account will appear in the
+'Your connected Instagram accounts' list. You can now close the
+incoginto tab, please do not click on logout there, since this would
+disconnect Storrito from Instagram.
 
 If you have any problems please contact our Storrito support
 (support@storrito.com) or click the red circle in the right bottom
