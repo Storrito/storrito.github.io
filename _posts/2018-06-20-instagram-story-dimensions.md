@@ -14,6 +14,7 @@ Many [Storrito](https://storrito.com/) users asked us: what is the
 optimal resolution for an Instagram story? Therefore we've summarized
 all the important details in this blog post.
 
+<!--more-->
 ## Image dimensions
 
 If you like to create a story image in Photoshop (or another tool),
