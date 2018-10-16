@@ -7,7 +7,7 @@ author: Storrito
 twitter:
   username: StorritoFresh
 categories: Instagram
-tags: Instagram stories schedule animation pc computer desktop
+tags: Instagram stories schedule animation pc computer desktop mac
 ---
 
 ![How to post](/images/how-to-post/storrito_instagram.jpg "Storrito Schedule")
