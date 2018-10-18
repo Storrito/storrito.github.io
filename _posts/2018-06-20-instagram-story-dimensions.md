@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What are the Instagram story dimensions?
-image: /images/what-are-the-instagram-story-dimensions/step-4.jpg
+image: /images/apectratio.jpg
 description: What is the best size for images or videos to upload to Instagram Stories?
 author: Storrito
 twitter:
