@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to get the Instagram sessionid cookie
+image: /images/manualconnect.jpg
 description: How to get the Instagram sessionid cookie
 author: Storrito
 twitter:
@@ -9,6 +10,8 @@ categories: Instagram
 tags: Instagram
 hidden: true
 ---
+
+![How to post](/images/manualconnect.jpg "Storrito Schedule")
 
 Storrito's Manual Instagram Connect uses a so-called cookie to log
 into your Instagram account. This is required to let Storrito post
