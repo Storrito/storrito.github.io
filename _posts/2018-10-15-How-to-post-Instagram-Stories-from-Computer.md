@@ -10,7 +10,7 @@ categories: Instagram
 tags: Instagram stories schedule animation pc computer desktop mac
 ---
 
-![How to post](/images/how-to-post/storrito_instagram.jpg "Storrito Schedule")
+![How to post](/images/how-to-post/storypost.jpg "Storrito Schedule")
 
 Brands, agencies and influencers like to create and schedule social media posts in advance. Instagram is a mobile-only platform and it doesn't allow to schedule stories at all. Storrito is an easy to use editor to schedule and create stories for Instagram. Storrito enables you to prepare and upload your Instagram Stories with a desktop PC or laptop (Win/Mac/Linux) without the need of your smartphone.
 
