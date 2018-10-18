@@ -10,16 +10,17 @@ tags: Instagram
 hidden: true
 ---
 
+Storrito's Manual Instagram Connect uses a so-called cookie to log
+into your Instagram account. This is required to let Storrito post
+stories on your Instagram account.
+
+<!--more-->
 We recommend to use our [Chrome
 extension](https://chrome.google.com/webstore/detail/plnpnichbepfpgbhineljllbhdpglkpn)
 or [Firefox
 Add-On](https://addons.mozilla.org/de/firefox/addon/storrito/) to do
 the Instagram Connect for your Storrito account. If you still want to
 do it manually, please find the instructions below.
-
-Storrito's Manual Instagram Connect uses a so-called cookie to log
-into your Instagram account. This is required to let Storrito post
-stories on your Instagram account.
 
 A cookie has name and contains a text. For the Instagram Connect we
 need the `sessionid` cookie. The section below describes how to
