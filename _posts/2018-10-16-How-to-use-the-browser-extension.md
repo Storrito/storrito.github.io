@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to use the Storrito Browser Extension
-image: /images/browser-extension/instagram.jpg
+image: /images/browser-extension/extension.jpg
 description: Connect your Instagram account to Storrito using the Storrito Extension
 author: Storrito
 twitter:
