@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to post Instagram Stories from Computer
-image: /images/how-to-post/storrito_instagram.jpg
+image: /images/how-to-post/storypost.jpg
 description: Post and schedule Instagram story videos and images from your computer.
 author: Storrito
 twitter:
