@@ -17,7 +17,12 @@ An Instagram hashtag is a single word, or a series of words, that is marked with
 
 It usually looks like the following:
 
-![How to post](/images/hashtags-usage/sticker.png "Hashtag Sticker")
+<div style="display: flex; justify-content: center; align-items: center">
+<img src="/images/hashtags-usage/sticker.png" width="200" align="middle" text-align="center">
+
+</div>
+
+
 
 A hashtag helps Instagram to organize and categorize content, which enables the platform to present the right content to the right users. If you’re a social media user then it’s likely that you’ve already seen hashtags in Instagram stories. If you use Hashtags in the right way you’ll gain more likes and followers. Instagram hashtags have multiple different purposes. Instagram users who are interested in a particular field search for hashtags which are related to it. If you use Instagram hashtags in your Instagram story, you will be listed in the search results for the used hashtag and you get the attention of the users. Using the right hashtags is one of the best ways to gain new followers on Instagram. This is why it’s a so important to find the best Instagram hashtags for your content. When you’re running a business it’s a great idea to take some time to research what the best Instagram hashtags are to get more attention and likes. There are different tools which will provide you with information about the best Instagram hashtags for your content. Among others sites like [all-hashtag.com](https://www.all-hashtag.com/) or [hashtagsforlikes.co](https://www.hashtagsforlikes.co/) can help you to find the right hashtags. But there are some limitation and recommendations for using Instagram hashtags:
 
