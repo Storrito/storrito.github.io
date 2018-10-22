@@ -7,11 +7,10 @@ author: Storrito
 twitter:
   username: StorritoFresh
 categories: Instagram
-tags: Instagram
-hidden: true
+tags: Instagram stories schedule pc computer desktop mac resolution
 ---
 
-![How to post](/images/manualconnect.jpg "Storrito Schedule")
+![How to post](/images/manualconnect.jpg "Storrito Instagram Story Aspect Ratio")
 
 Storrito's Manual Instagram Connect uses a so-called cookie to log
 into your Instagram account. This is required to let Storrito post
