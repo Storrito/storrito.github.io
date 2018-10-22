@@ -10,7 +10,7 @@ categories: Instagram
 tags: Instagram stories schedule animation pc computer desktop mac browser extension
 ---
 
-![How to post](/images/browser-extension/extension.jpg "Storrito Schedule")
+![How to post](/images/browser-extension/extension.jpg "Storrito Instagram Extension")
 
 A browser extension is a plug-in that extends the functionality of your desktop web browser. The Storrito browser extension connects your Instagram account to your Storrito account with one single click. You can easily connect multiple Instagram accounts very fast without the need of your password. We recommend to use Storrito with Google Chrome, Mozilla Firefox or Opera, therefore we offer the browser extension only for these.
 
@@ -27,11 +27,11 @@ Choose the ‘Alternative Method’ tab. If you don’t have the Storrito extens
 ![How to post](/images/browser-extension/connect_notinstalled_extension.jpg "Storrito Instagram Connect")
 
 If you already have the Storrito extension installed the steps to connect your Instagram account will be shown.
-![How to post](/images/browser-extension/connect_installed_extension.jpg "Storrito Instagram Connect")
+![How to post](/images/browser-extension/connect_installed_extension.jpg "Storrito Instagram connect with browser extension")
 
 ### The connection steps are:
 1. Visit [Instagram.com](https://www.instagram.com/) and sign in to your account.
-2. Click on the Storrito extension in your browser and connect your Instagram account.![How to post](/images/browser-extension/ig.jpg "Storrito Instagram Connect")
-3. You will be forwarded to [Storrito.com](https://app.storrito.com) and you will see your Instagram account in your account list.![How to post](/images/browser-extension/connected_account.jpg "Storrito Instagram Connect")
+2. Click on the Storrito extension in your browser and connect your Instagram account.![How to post](/images/browser-extension/extension.jpg "Storrito Instagram Browser Extension")
+3. You will be forwarded to [Storrito.com](https://app.storrito.com) and you will see your Instagram account in your account list.![How to post](/images/browser-extension/connected_account.jpg "Storrito Instagram Account List")
 
 If you have questions or feedback, feel free to contact us using the chat tool on our platform.
