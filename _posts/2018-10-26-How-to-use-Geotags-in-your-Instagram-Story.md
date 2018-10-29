@@ -18,7 +18,7 @@ Instagram uses stickers with specific locations, of where you’ve stored your I
 
 Posts with a tagged location result in [79% higher engagement](https://sproutsocial.com/insights/instagram-stats/) than posts without. If you are running a business and you are posting an image of one of your products or services, you should always tag your own business location in your posts. This way, if a user searches for your business on Instagram, they will see not only your own posted images and video but also those of other users.
 
-## How to add a geo sticker to your Instagram Story using Storrito
+## How to add a geo location to your Instagram Story using Storrito
 Sign in at [Storrito.com](https://app.storrito.com) to your Storrito account. Upload a new file and open your image or video in the editor, or create a new Instagram story from scratch.
 
 ![How to post](/images/how-to-post/upload.jpg "Upload Screenshot")
