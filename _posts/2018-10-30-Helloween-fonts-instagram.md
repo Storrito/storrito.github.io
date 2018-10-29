@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to use Halloween Fonts in your Instagram Story
-image: /images/geotag/preview.jpg
+image: /images/halloween/preview.jpg
 description: How to use Halloween Fonts in your Instagram Story
 author: Storrito
 twitter:
