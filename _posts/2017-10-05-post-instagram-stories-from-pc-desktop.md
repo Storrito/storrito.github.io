@@ -9,6 +9,8 @@ twitter:
 categories: Instagram
 tags: Instagram stories schedule animation pc computer desktop
 ---
+[UPDATE](https://blog.storrito.com/instagram/2018/10/15/How-to-post-Instagram-Stories-from-Computer.html)
+In the meantime we released so many new updates of [Storrito.com](https://app.storrito.com) therefore we have written a new blog post how to post into your instagram story from a desktop PC (please [click here](https://blog.storrito.com/instagram/2018/10/15/How-to-post-Instagram-Stories-from-Computer.html)).
 
 ![How to post](/images/how-to-post/how-to-post.png "How to post Instagram stories from your PC")
 
