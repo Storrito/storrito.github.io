@@ -7,7 +7,7 @@ author: Storrito
 twitter:
   username: StorritoFresh
 categories: Instagram
-tags: plan schedule prepare Instagram stories
+tags: plan schedule prepare Instagram stories 
 ---
 
 ![Schedule Instagram Stories](/images/schedule/schedule.jpg "Schedule Instagram Stories")

@@ -7,7 +7,7 @@ author: Storrito
 twitter:
   username: StorritoFresh
 categories: Instagram
-tags: Instagram editor
+tags: Instagram editor creator online storitto storrito
 ---
 
 We created a short tutorial on how to add text to your Instagram story

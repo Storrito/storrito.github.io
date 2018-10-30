@@ -7,7 +7,7 @@ author: Storrito
 twitter:
   username: StorritoFresh
 categories: Instagram
-tags: Instagram stories schedule animation pc computer desktop mac sticker location halloween fonts
+tags: Instagram stories schedule creator online storitto storrito animation pc computer desktop mac sticker location halloween fonts
 ---
 
 So far, Instagram provides only a few standard fonts. Instagram users have already found lots of ways to incorporate text into their stories. But these solutions are always very uncomfortable and time consuming. [Storrito.com](https://app.storrito.com) provides an editor, which is really easy to use. It enables you to use custom fonts in your Instagram Story with just one single click. For special events, like Halloween or Christmas, Storrito provides special fonts.

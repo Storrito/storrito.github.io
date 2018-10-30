@@ -7,7 +7,7 @@ author: Storrito
 twitter:
   username: StorritoFresh
 categories: Instagram
-tags: Instagram
+tags: Instagram creator online storitto storrito text font
 ---
 
 Learn how to use [Storrito](https://storrito.com) to create an Instagram story that only contains text on a solid background:

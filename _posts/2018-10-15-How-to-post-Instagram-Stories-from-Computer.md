@@ -7,7 +7,7 @@ author: Storrito
 twitter:
   username: StorritoFresh
 categories: Instagram
-tags: Instagram stories schedule animation pc computer desktop mac
+tags: Instagram stories schedule creator online storitto storrito animation pc computer desktop mac
 ---
 
 ![How to post](/images/how-to-post/storypost.jpg "Storrito Instagram Story Scheduler")

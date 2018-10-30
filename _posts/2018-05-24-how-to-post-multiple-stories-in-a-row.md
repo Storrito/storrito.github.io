@@ -7,7 +7,7 @@ author: Storrito
 twitter:
   username: StorritoFresh
 categories: Instagram
-tags: Instagram schedule
+tags: Instagram schedule creator online storitto storrito multiple stories
 ---
 
 New tutorial video - learn how to post multiple Instagram stories in a row:

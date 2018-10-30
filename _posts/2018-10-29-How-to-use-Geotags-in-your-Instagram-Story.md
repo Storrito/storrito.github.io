@@ -7,7 +7,7 @@ author: Storrito
 twitter:
   username: StorritoFresh
 categories: Instagram
-tags: Instagram stories schedule animation pc computer desktop mac sticker location
+tags: Instagram stories creator online storitto storrito schedule animation pc computer desktop mac sticker location
 ---
 
 Instagram uses stickers with specific locations, of where you’ve stored your Instagram content. Usually the geolocations are gathered from the physical location of your mobile device, which allows users to store or tag their content to those coordinates. If you use [Storrito.com](https://app.storrito.com) with your desktop pc you can choose a geolocation freely without being at this location physically.

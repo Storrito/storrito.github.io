@@ -7,7 +7,7 @@ author: Storrito
 twitter:
   username: StorritoFresh
 categories: Instagram
-tags: Instagram story dimensions
+tags: Instagram story dimensions creator online storitto storrito
 ---
 
 ![How to post](/images/apectratio.jpg "Storrito Schedule")

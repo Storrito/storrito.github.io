@@ -7,7 +7,7 @@ author: Storrito
 twitter:
   username: StorritoFresh
 categories: Instagram
-tags: Instagram stories schedule animation pc computer desktop mac browser extension
+tags: Instagram stories schedule creator online storitto storrito animation pc computer desktop mac browser extension
 ---
 
 ![How to post](/images/browser-extension/extension.jpg "Storrito Instagram Extension")

@@ -7,7 +7,7 @@ author: Storrito
 twitter:
   username: StorritoFresh
 categories: Instagram
-tags: Instagram stories schedule pc computer desktop mac resolution
+tags: Instagram stories schedule creator online storitto storrito pc computer desktop mac resolution
 ---
 
 ![How to post](/images/manualconnect.jpg "Storrito Instagram Story Aspect Ratio")

@@ -7,7 +7,7 @@ author: Storrito
 twitter:
   username: StorritoFresh
 categories: Instagram
-tags: Instagram
+tags: Instagram creator online storitto storrito usertag mention
 ---
 
 Learn how to add an usertag to an Instagram story with Storrito.com
