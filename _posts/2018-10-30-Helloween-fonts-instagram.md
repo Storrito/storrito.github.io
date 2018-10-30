@@ -23,11 +23,11 @@ Sign in at [Storrito.com](https://app.storrito.com) to your Storrito account. Up
 
 You can add a text element easily in our editor to your Instagram story. Just click on the “ADD” Button and choose “Text”.
 
-![How to post](/images/halloween/editor.png "Editor Screenshot")
+![How to post](/images/halloween/editor.png "Instagram Story with Sticker")
 
 A new element will be added to your story. Click on the Text element and a new menu will appear on the right side of the editor. Here you can manage the font family, color (font/background), font size etc.
 
-![How to post](/images/halloween/text.png "Editor Text Menu")
+![How to post](/images/halloween/text.png "Instagram Story Menu Halloween Fonts")
 
 After you have added the text element to your Instagram story drag it to your desired position and save your story. Now you’re ready to post.
 

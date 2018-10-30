@@ -32,19 +32,19 @@ A hashtag helps Instagram to organize and categorize content, which enables the 
 
 Sign in at [Storrito.com](https://app.storrito.com) to your Storrito account. Upload a new file and open your image or video in the editor, or create a new Instagram story from scratch.
 
-![How to post](/images/how-to-post/upload.jpg "Upload Screenshot")
+![How to post](/images/how-to-post/upload.jpg "Instagram Story Upload")
 
 You can add a hashtag sticker easily in our editor to your Instagram story. Just click on the “ADD” Button and choose “Hashtag”.
-![How to post](/images/hashtags-usage/editor.jpg "Editor Screensholt")
+![How to post](/images/hashtags-usage/editor.jpg "Storrito Editor")
 
 A new dialog will appear and you can type in your desired hashtag. Click ‘Add Hashtag’  and you will add the sticker to your Instagram story.
 
-![How to post](/images/hashtags-usage/searchtag.jpg "Editor Hashtag Search")
+![How to post](/images/hashtags-usage/searchtag.jpg "Instagram Hashtag Search")
 
 After you have added the #Hashtag sticker to your Instagram story drag it to your desired position and choose a sticker design.
 
 
-![How to post](/images/hashtags-usage/design.jpg "Editor Choose Hashtag Design")
+![How to post](/images/hashtags-usage/design.jpg "Instagram Hashtag Design")
 
 After saving your story  you’re ready to post.
 If you have questions or feedback, feel free to contact us using the chat tool on our platform.
