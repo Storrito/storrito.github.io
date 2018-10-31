@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use the Storrito Browser Extension
+title: How to use the Instagram Browser Extension
 image: /images/browser-extension/extension.jpg
 description: Connect your Instagram account to Storrito using the Storrito Extension
 author: Storrito
@@ -10,7 +10,7 @@ categories: Instagram
 tags: Instagram stories schedule creator online storitto storrito animation pc computer desktop mac browser extension
 ---
 
-![How to post](/images/browser-extension/extension.jpg "Storrito Instagram Extension")
+![How to post](/images/browser-extension/extension.jpg "Storrito Instagram Browser Extension")
 
 A browser extension is a plug-in that extends the functionality of your desktop web browser. The Storrito browser extension connects your Instagram account to your Storrito account with one single click. You can easily connect multiple Instagram accounts very fast without the need of your password. We recommend to use Storrito with Google Chrome, Mozilla Firefox or Opera, therefore we offer the browser extension only for these.
 
