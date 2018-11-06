@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to prepare your Instagram Story on a desktop PC?
-image: /images/halloween/preview.jpg
+image: /images/editor/preview.jpg
 description: Storrito provides an editor which enables you to prepare your images or videos, for your Instagram story from the desktop.
 author: Storrito
 twitter:
