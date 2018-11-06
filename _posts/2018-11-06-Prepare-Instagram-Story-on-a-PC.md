@@ -9,31 +9,29 @@ twitter:
 categories: Instagram
 tags: Instagram stories schedule creator online storitto storrito animation pc computer desktop mac sticker location halloween fonts
 ---
-
-Instagram is a mobile-only platform. For many agencies or bloggers the mobile focus makes it really hard to schedule stories in advance. Some platforms already support time scheduling for Instagram stories from desktop. But the big disadvantage is that they don't provide editors to add Instagram specific stickers, like #Hashtags. Besides time scheduling, it’s really important to prepare your Instagram story with the appropriate tags and swipe-up links to reach your followers and grow your audience. [Storrito](https://app.storrito.com) provides an editor which enables you to prepare your images or videos, for your Instagram story from desktop.
+Instagram is a mobile-only platform and does not provide the option to schedule stories in advance. [Storrito](https://app.storrito.com) is the only Instagram Story tool that provides an editor to add Instagram specific stickers, like Hashtags. Besides time scheduling, it’s really important to prepare your Instagram story with the appropriate tags and swipe-up links to reach your followers and grow your audience. [Storrito](https://app.storrito.com) provides an editor which enables you to prepare your images or videos, for your Instagram story from desktop.
 
 ![How to post](/images/editor/preview.jpg "Storrito Instagram Editor")
 
 <!--more-->
 
-
 ## Instagram Editor
-The [Storrito Instagram Editor](https://app.storrito.com/#/instagram/story/image/new) is really easy to use and support the following features for an easy Instagram Story preparation:
+The Storrito Instagram Editor is really easy to use and supports the following features for Instagram Story preparation:
 
-* The Editor automatically crop your content to the [right aspect ratio for a Instagram Story](https://blog.storrito.com/instagram/2018/06/20/instagram-story-dimensions.html). Furthermore the Instagram Editor displays a overlay to enable you to arrange your content in the best way.
+* The Editor automatically crops your content to the [right aspect ratio for a Instagram Story](https://blog.storrito.com/instagram/2018/06/20/instagram-story-dimensions.html). Furthermore the Instagram Editor displays a overlay to enable you to arrange your content in the best way.
 ![How to post](/images/editor/overlay.jpg "Instagram Editor - Overlay")
 * For videos [Storrito](https://app.storrito.com/) supports a super easy to use cutting tool and cut your content into 15 seconds snippets automatically.
 ![How to post](/images/editor/video.png "Instagram Editor - Video")
-* If you have a business account and more than 10k followers your can add swipe up links to your Instagram story.
+* If you have a business account and more than 10k followers you can add swipe up links to your Instagram story.
 ![How to post](/images/editor/swipeup.png "Instagram Editor - Swipe Up Link")
-* If you don't have appropriate content for your story you can add images from [Unsplash](https://unsplash.com/) directly in the Storrito Editor. Just search for your keyword and choose an Image.  
+* If you don't have appropriate content for your story you can add images from Unsplash directly in the Storrito Editor. Just search for your keyword and choose an Image.  
 ![How to post](/images/editor/unsplash.png "Instagram Editor - Unsplash")
 
 ## Instagram Sticker
 
 The following Sticker are currently supported:
 
-* Instagram [Hashtags](https://blog.storrito.com/instagram/2018/10/22/How-to-use-Hashtags-in-your-Instagram-Story.html), Usermentions and [Geolocation](https://blog.storrito.com/instagram/2018/10/29/How-to-use-Geotags-in-your-Instagram-Story.html)
+* Instagram [hashtags](https://blog.storrito.com/instagram/2018/10/22/How-to-use-Hashtags-in-your-Instagram-Story.html), usermentions and [geolocation](https://blog.storrito.com/instagram/2018/10/29/How-to-use-Geotags-in-your-Instagram-Story.html)
 ![How to post](/images/editor/sticker.jpg "Instagram Sticker")
 
 * Instagram Polls
