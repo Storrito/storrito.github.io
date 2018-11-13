@@ -12,11 +12,11 @@ tags: Instagram stories schedule creator online storitto storrito animation pc c
 
 ![How to post](/images/emoticons/preview.jpg "Storrito Instagram Editor")
 
-Emojis can be powerful tools that help your Instagram Story stick with your audience. Since the early days of digital communication, it’s been a common practice to use emojis to express feelings in your messages and Instagram Stories. The power of images over words extends to emojis—especially in Instagram Stories. Nearly 50% of comments or captions in Instagram feature emojis. Furthermore they are searchable and lead up to [47.7% More Interactions on Instagram](https://www.quintly.com/blog/instagram-emoji-study). There are several reasons to use emojis in your Instagram Story.
+Emojis can be powerful tools that help your Instagram Story stick with your audience. Since the early days of digital communication, it’s been a common practice to use emojis to express feelings in your messages and Instagram Stories.
 
 <!--more-->
 
-Storrito’s Instagram Story Editor enables you to add emojis to your Instagram Story using your desktop computer in an easy way. The following steps will help you to add emojis to your Instagram Story.
+The power of images over words extends to emojis—especially in Instagram Stories. Nearly 50% of comments or captions in Instagram feature emojis. Furthermore they are searchable and lead up to [47.7% More Interactions on Instagram](https://www.quintly.com/blog/instagram-emoji-study). There are several reasons to use emojis in your Instagram Story. Storrito’s Instagram Story Editor enables you to add emojis to your Instagram Story using your desktop computer in an easy way. The following steps will help you to add emojis to your Instagram Story.
 
 ## Add emojis to your Instagram Story using a desktop PC
 
