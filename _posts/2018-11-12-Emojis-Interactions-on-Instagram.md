@@ -1,8 +1,8 @@
 ---
 layout: post
-title: How to use emoji in your Instagram Story with a desktop PC
+title: How to use emojis in your Instagram Story with a desktop PC
 image: /images/emoticons/preview.jpg
-description: How to use emoji in your Instagram Story with a desktop PC
+description: How to use emojis in your Instagram Story with a desktop PC
 author: Storrito
 twitter:
   username: StorritoFresh
