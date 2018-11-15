@@ -7,8 +7,7 @@ author: Storrito
 twitter:
   username: StorritoFresh
 categories: Instagram
-tags: Instagram stories schedule creator online storitto storrito animation pc computer desktop mac sticker location halloween fonts
-hidden: true
+tags: Instagram stories schedule creator online storitto storrito animation pc computer desktop mac sticker location fonts
 ---
 
 The ruling principle of marketing is to be where your audience is. And considering the raving popularity of Instagram Stories, which see [400 million daily active users](https://www.statista.com/statistics/730315/instagram-stories-dau/), it’s no wonder that savvy businesses are finding ways to maximize the potential of this feature. Stories are a powerful marketing tool, no doubt, and with tools such as [Storrito](https://storrito.com/), businesses are able to perfect their Stories, making them more engaging, enticing, and representative of the brand. But they’re not just great for boosting audience engagement and building trust. With a few tricks up your sleeve, your Stories can actually start driving conversions. We’ve rounded up the 5 crucial tips to help you create Instagram stories that sell.  
