@@ -53,3 +53,5 @@ A little tip: find someone who is relevant and influential within your niche to 
 ![How to post](/images/sellyourproduct/kaboompics.jpg "Storrito Instagram Editor")
 
 Although they’ve become a legitimate and serious marketing tool, Instagram Stories are still an incredibly fun medium to use. With the help of these tips and [useful features which you can find on Storrito](https://storrito.com/#features), you’ll be able to create exceptional Stories which sell. So dive right into – and happy Story-ing!
+
+Written by Angelina Harper.
