@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Use Instagram Stories to Boost Audience Engagement
-image: /images/black-friday/black-friday.jpg
+image: /images/boost-audience/group.jpg
 description: How to Use Instagram Stories to Boost Audience Engagement
 author: Storrito
 twitter:
