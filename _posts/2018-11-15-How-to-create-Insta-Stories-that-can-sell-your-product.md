@@ -12,14 +12,14 @@ tags: Instagram stories schedule creator online storitto storrito animation pc c
 
 The ruling principle of marketing is to be where your audience is. And considering the raving popularity of Instagram Stories, which see [400 million daily active users](https://www.statista.com/statistics/730315/instagram-stories-dau/), it’s no wonder that savvy businesses are finding ways to maximize the potential of this feature. Stories are a powerful marketing tool, no doubt, and with tools such as [Storrito](https://storrito.com/), businesses are able to perfect their Stories, making them more engaging, enticing, and representative of the brand. But they’re not just great for boosting audience engagement and building trust. With a few tricks up your sleeve, your Stories can actually start driving conversions. We’ve rounded up the 5 crucial tips to help you create Instagram stories that sell.  
 
-![How to post](/images/sellyourproduct/agenda-analysis.jpg "Storrito Instagram Editor")
+![How to post](/images/sellyourproduct/agenda-analysis.jpg "Storrito Instagram Editor"){:width="100%"}
 
 <!--more-->
 
 ## 1. Showcase your products in action
 What’s so great about your product? Why would somebody want to buy from you and not your competitor? **Show, don’t tell.**
 
-![How to post](/images/sellyourproduct/art-blur.jpg "Storrito Instagram Editor")
+![How to post](/images/sellyourproduct/art-blur.jpg "Storrito Instagram Editor"){:width="100%"}
 
 The great thing about Stories is that they’re a rather causal medium – they’re unpolished, unpretentious, and open to spontaneity. It’s why audiences love them. It’s because of this that they make informal and unforced promotion very easy – and very effective. When you show your product being used in a Story, you can show all the best things about it plus add a couple of tips for your audience on how to use it or to make it look better. So just get it out there and entice your audience to try it out for themselves.
 
@@ -28,7 +28,7 @@ When you let your audience have a glimpse into your world, you’re not only bui
 
 So don’t hesitate to go behind the scenes and show a regular day at your company, show your employees in spontaneous situations, or better yet, film some part of the production process.
 
-![How to post](/images/sellyourproduct/gregory-hayes.jpg "Storrito Instagram Editor")
+![How to post](/images/sellyourproduct/gregory-hayes.jpg "Storrito Instagram Editor"){:width="100%"}
 
 Be careful, however, not to mistake spontaneity for just plain old poor video quality. Especially if you’re going to film the production process, do a little bit of planning ahead or [find a suitable video production agency](https://www.designrush.com/agency/video-production) in your area to help you. You want these Stories to be interesting, well-filmed, and to have a special quality to them that makes your product all the more desirable, so don’t rush the process and [prepare them on desktop first](https://blog.storrito.com/instagram/2018/11/06/Prepare-Instagram-Story-on-a-PC.html).
 
@@ -39,7 +39,7 @@ Keep your audience tuned in while you’re working on a new product or preparing
 ## 4. Use special offers
 Special offers and discount codes are a smart sales tactic used by businesses on Instagram. It’s all about exclusivity – get involved, follow us, and you’ll get something exclusive. If you ever resort to this tactic (which is warmly recommended), make sure you build it into your Stories too. Otherwise it will be way less effective.
 
-![How to post](/images/sellyourproduct/salome-watel.jpg "Storrito Instagram Editor")
+![How to post](/images/sellyourproduct/salome-watel.jpg "Storrito Instagram Editor"){:width="100%"}
 
 So when you create a special offer, insert it into your Stories through an announcement. You can also make the discount code available exclusively in the Story, which will make it all the more effective because you create a sense of urgency – people will inherently be driven to act on your offer when there’s only a 24-hour window to do so. Remember, Stories are all about [FOMO-the fear of missing out](https://adespresso.com/blog/use-fomo-marketing-social-media), so leverage it to boost sales.
 

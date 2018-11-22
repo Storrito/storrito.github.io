@@ -28,14 +28,14 @@ There’s no engagement without community – that’ what Instagram is all abou
 
 Instagram rolled out some great features which can help you facilitate conversation with your audience. These are the poll stickers, swipe meters, and the most recent feature which is a gold mine for engagement – the questions stickers. Swipe meters and polls work great when you want to survey your audience. For example, you can ask them how much they like a certain new product, feature, or even post you’ve just rolled out using the swipe meter or poll sticker. And no worries, by signing in to [Storrito.com](https://storrito.com/) you’ll be able to utilize these features from desktop as well. 
 
-![Black Friday](/images/boost-audience/what.jpg "Poll")
+![Black Friday](/images/boost-audience/what.jpg "Poll"){:width="100%"}
 
 You can also run Q&A sessions in real time using live video or with the help of the questions stickers. Ask them whatever you like, regarding their interests, your brand, or topics which are hot at the moment, and encourage them to ask you questions as well using the same feature. 
 
 ## Add a geolocation
 [Adding a geotag to your Story](https://blog.storrito.com/instagram/2018/10/29/How-to-use-Geotags-in-your-Instagram-Story.html) is a great way to engage local followers. Geo-tagged posts make your business easily searchable on Instagram, but when it comes to Stories, this feature will help you raise interest and facilitate conversation. Make sure to use it when you’re attending some special event or venue! You’ll find plenty of people asking about the place or sharing their own experiences from it. 
 
-![Black Friday](/images/boost-audience/smartphone.jpg "Instagram geo tagging")
+![Black Friday](/images/boost-audience/smartphone.jpg "Instagram geo tagging"){:width="100%"}
 
 
 ## Share each new post to your Story – with a little extra! 

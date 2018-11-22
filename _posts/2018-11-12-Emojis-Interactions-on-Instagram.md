@@ -34,7 +34,7 @@ After you have added the emoji to your Instagram story drag it to your desired p
 
 You can add as many emoji and resize them as you want. Our emojis are always as sharp as you Instagram Story.  
 
-![How to post](/images/emoticons/story.png "Storrito Instagram Story with Emoticons")
+![How to post](/images/emoticons/story.png "Storrito Instagram Story with Emoticons"){:width="100%"}
 
 After saving your story you’re ready to post.
 
