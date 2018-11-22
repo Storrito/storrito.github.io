@@ -7,7 +7,7 @@ author: Storrito
 twitter:
   username: StorritoFresh
 categories: Instagram
-tags: Instagram stories black friday schedule creator online storitto animation pc computer desktop mac sticker location fonts
+tags: Instagram stories schedule creator online storitto animation pc computer desktop mac sticker location fonts audience engagement 
 ---
 
 Back in 2016, Instagram introduced a new algorithm, removing the chronological feed and largely shifting the priority to engagement rates above all other metrics. This created ripples across the platform, a bit of frustration among users, and admittedly, confusion among brands who worked hard to build their audience base. Switch to 2018, and although the [Instagram algorithm](https://guce.oath.com/collectConsent?brandType=nonEu&.done=https%3A%2F%2Ftechcrunch.com%2F2018%2F06%2F01%2Fhow-instagram-feed-works%2F%3Fguccounter%3D1&sessionId=3_cc-session_42dc2c2e-42ee-451c-b00a-4f49dd61d311&lang=&inline=false) constantly changes and updates, there’s no arguing that audience engagement is still the name of the game. 

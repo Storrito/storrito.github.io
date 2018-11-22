@@ -10,9 +10,9 @@ categories: Instagram
 tags: Instagram stories schedule creator online storitto storrito animation pc computer desktop mac sticker location emoji emoticons
 ---
 
-![How to post](/images/emoticons/preview.jpg "Storrito Instagram Editor")
-
 Emojis can be powerful tools that help your Instagram Story stick with your audience. Since the early days of digital communication, it’s been a common practice to use emojis to express feelings in your messages and Instagram Stories.
+
+![How to post](/images/emoticons/preview.jpg "Storrito Instagram Editor")
 
 <!--more-->
 
