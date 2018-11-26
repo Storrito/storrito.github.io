@@ -11,7 +11,7 @@ tags: Instagram stories auto post schedule no business account
 ---
 
 Have you ever felt the urge to post something to your Instagram story on the weekend and felt bad about wasting your precious quality time planing your posts?
-Why not plan ahead your posts to free your weekends and to save your preciouse after-work hours?
+Why not plan ahead your posts to free your weekends and to save your precious after-work hours?
 
 Other services only offer automatic posts for business accounts but there are many smaller businesses and influencers that are not able or don't want to convert their accounts to business accounts.
 The not satisfying solution to those are notifications which need to be confirmed on the smartphone before the images can be posted.
