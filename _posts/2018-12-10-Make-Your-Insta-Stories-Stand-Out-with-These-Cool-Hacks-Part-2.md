@@ -35,5 +35,13 @@ Using the mentions feature, you can give shout-outs to other brands, sponsors, i
 
 And one of the best ways to make use of the mentions feature is by posting user-generated content to your Stories and giving credit to the creator. The content doesn’t always have to concern your brand, but make sure you encourage that as well. In the long run, people generally feel delighted to be mentioned in a brand’s Story, and by showing your appreciation for their posts, you’ll be encouraging others to stick to your profile and try to get featured as well. Not to mention, you’ll have content creation taken care of. If you’d much rather [prepare your Stories on PC](https://blog.storrito.com/instagram/2018/11/06/Prepare-Instagram-Story-on-a-PC.html), you’ll still be able to use the mentions feature and a whole load of other sticker goodies on desktop with [the Storrito tool](https://storrito.com/#features). 
 
+![Storrito](/images/coolhacks/thank.jpg "Instagram Story - Do shout-outs") 
+
+## Place a selfie sticker
+You can create a customized selfie sticker to plaster onto your Stories and give your audience a good laugh. You can find this option among the stickers in the Story editor – it’s the one labelled as a camera icon. Tap on that and you’ll see the mini-selfie window opened. Just take a selfie and you have your sticker! You can place it anywhere on the screen. This feature is purely for humour, and it’s sure to make your Stories memorable. Be as silly as you want!
+
+Try out some of these things and add them to your Stories repertoire. There are always so many ways to get creative and engage your followers; you just have to know which tools are at your disposal! To boost your efforts and create engaging Stories on your own time, you can try out the Storrito tool right now – it’s free to use for 10 Story posts per month! 
+
+![Storrito](/images/coolhacks/sticker.jpg "Instagram Story - Place a selfie sticker") 
 
 Written by Angelina Harper.
