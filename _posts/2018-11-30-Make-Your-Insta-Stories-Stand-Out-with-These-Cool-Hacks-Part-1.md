@@ -16,7 +16,7 @@ Instagram Stories are a great tool for showing a quirky personality and [engagin
 
 Whether you’re running a business, a blog, or looking to make it in the influencer sphere, using Insta Stories like a pro is a vital part of maintaining a compelling presence on the platform. To help you make your Insta Stories stand out, we’ve singled out these cool hacks. 
 
-![Storrito](/images/coolhacks/story.jpg "Instagram Story") *[flickr.com](https://www.flickr.com/photos/h4ck/14569024543/)* 
+![Storrito](/images/coolhacks/story_1.jpg "Instagram Story") *[flickr.com](https://www.flickr.com/photos/h4ck/14569024543/)* 
 
 <!--more-->
 

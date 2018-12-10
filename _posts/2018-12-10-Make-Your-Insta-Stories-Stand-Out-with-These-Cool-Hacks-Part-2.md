@@ -11,7 +11,7 @@ tags: Instagram stories auto post schedule no business account
 ---
 Welcome to the second volume of our series of hacks to help make your Insta Stories stand out. We’ve covered some useful points in [the first part](https://blog.storrito.com/instagram/2018/11/30/Make-Your-Insta-Stories-Stand-Out-with-These-Cool-Hacks-Part-1.html), and as promised, we’re back with some more actionable tips to make your Stories more eye-catching, engaging, and memorable. 
 
-![Storrito](/images/coolhacks/story.jpg "Instagram Story") *[flickr.com](https://www.flickr.com/photos/h4ck/14569024543/)* 
+![Storrito](/images/coolhacks/story_2.jpg "Instagram Story") *[flickr.com](https://www.flickr.com/photos/h4ck/14569024543/)* 
 
 <!--more-->
 
