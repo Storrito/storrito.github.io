@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Make Your Insta Stories Stand Out with These Cool Hacks – Part 2
-image: /images/coolhacks/story.jpg
+image: /images/coolhacks/story_2.jpg
 description: Make Your Insta Stories Stand Out with These Cool Hacks – Part 2
 author: Storrito
 twitter:
