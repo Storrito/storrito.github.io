@@ -36,7 +36,7 @@ Experimenting is great and necessary with Instagram marketing, but make sure tha
 If you’ve posted ten snippets of still images today, or cut up a video into Story slides stacked one after the other, don’t be surprised to see your audience trailing off one by one with each new slide.
 
 It’s difficult enough to catch the audience’s attention, but it gets harder to maintain your grasp on it as your Stories progress. Variety helps a lot. Use all kinds of media in your Story sequence – video, images, text-only, boomerang…throw in some live video too! That way, you’ll always be using the medium that resounds best with the message you’re trying to convey, helping you get your point across in a smooth and resounding way. It also gives your Stories a narrative break and keeps the monotony at bay. Your audience will really appreciate this and the variety will keep them hooked through the entire sequence. And don’t worry – if you’re not too keen on fiddling with all this on your phone, Storrito is here to help you [prepare Stories on a desktop PC](https://blog.storrito.com/instagram/2018/11/06/Prepare-Instagram-Story-on-a-PC.html). 
-![Storrito](/images/mistakes/rock-instagram.png "Social Media"){:width="100%"}*[mediablog.com](https://mediablog.prnewswire.com/2016/12/08/10-ways-to-captivate-your-audience-with-instagram-stories/)* 
+![Storrito](/images/mistakes/rock-instagram.png "Mixing Media in Instagram Story"){:width="100%"}*[mediablog.com](https://mediablog.prnewswire.com/2016/12/08/10-ways-to-captivate-your-audience-with-instagram-stories/)* 
 
 # You’re placing clickable stickers awkwardly
 
@@ -44,7 +44,7 @@ This is one mistake I’m seeing all too often on Instagram, and it really makes
 
 If you place them too close to the right side of the screen (as so many people often do), when users tap on them they will likely tap forward accidentally or exit your Story sequence. Make sure your stickers are easily visible and clickable. 
 
-![Storrito](/images/mistakes/placement.jpg "Social Media")
+![Storrito](/images/mistakes/placement.jpg "Sticker Placement Mistakes")
 
 *[socialmediaexaminer.com](https://www.socialmediaexaminer.com/how-to-analyze-instagram-stories-with-instagram-insights/)* 
 
