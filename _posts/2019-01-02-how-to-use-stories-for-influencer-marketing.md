@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to Use Stories for Influencer Marketing
-image: /images/mistakes/social.jpg
-description: How to Use Stories for Influencer Marketing
+image: /images/influencer-marketing/influencer-1.jpg
+description: Work together with influencers to promote your products with Instagram stories
 author: Storrito
 twitter:
   username: StorritoFresh
