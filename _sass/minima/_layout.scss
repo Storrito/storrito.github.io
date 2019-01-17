@@ -3,10 +3,14 @@
  */
 .site-header {
   height: 56px;
-  background-color: $storrito-red;
+  background-color: $white;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 5px -9px;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  left: 0px;
 }
 
 .site-logo {
@@ -27,28 +31,30 @@
     display: none;
   }
 
+  .login-link {
+    color: $storrito-red;
+    background-color: $white;
+  }
+
   .page-link {
     color: $white;
-    @include media-query($on-palm){
-      color: $black;
-    }
+    background-color: $storrito-red;
+  }
+
+  .storrito-app-link {
+    padding: 10px 14px;
+    border: 2px solid $storrito-red;
+    border-radius: 5px;
+    letter-spacing: 0.05em;
     line-height: $base-line-height;
     font-size: 0.9rem;
     font-weight: 700;
     text-transform: uppercase;
     text-decoration: none;
-    letter-spacing: 0.085em;
-
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
     }
-  }
-
-  .storrito-app-link {
-    padding: 10px 14px;
-    background-color: $white;
-    color: $storrito-red;
   }
 
   @include media-query($on-palm) {
@@ -181,7 +187,7 @@
  * Page content
  */
 .page-content {
-  padding: $spacing-unit 0;
+  padding: ($spacing-unit + 56px) 0;
 }
 
 .page-heading {
