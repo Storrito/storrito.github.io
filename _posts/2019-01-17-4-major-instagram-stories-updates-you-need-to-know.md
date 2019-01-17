@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Major Instagram Stories Updates You Need to Know
-image: /images/invisible-tags/invisible.jpg
+image: /images/story-updates/update.jpg
 description: A summary of the latest Instagram story updates
 author: Storrito
 twitter:
