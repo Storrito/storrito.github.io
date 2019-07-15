@@ -58,3 +58,7 @@ For example, if you’re trying to showcase a product, don’t post a still imag
 There are many more Insta Story mistakes out there, but we felt that these were the ones that needed your urgent attention. Reflect on how you’ve been using Stories and if you see yourself making any of these mistakes, take our advice for fixing them. The fix is actually very simple but you’ll find it’s also very beneficial to your Insta Story efforts. 
 
 Written by Angelina Harper.
+
+Resources: 
+
+*[g2crowd.com - state-of-social-media-marketing-2019](https://learn.g2.com/state-of-social-media-marketing-2019)* 
