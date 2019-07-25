@@ -15,7 +15,7 @@ As we move further into this fresh new year, now is the perfect time to examine 
 
 ![Top trends](/images/top-marketing-trends/trends.jpg)
 <!--more-->
-Photo by [Campaign Creators](https://unsplash.com/photos/yktK2qaiVHI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+Photo credit: [Campaign Creators](https://www.campaigncreators.com/)
 
 ## IGTV
 IGTV rolling out in the summer of 2018 was one of the biggest surprises the platform has presented us with – a curveball right there in line with the rollout of Stories back in 2016. And just like the concept of Stories had been “borrowed” (cloned) from rival Snapchat, Instagram TV, which is dedicated to long-form video content, [now stands as a competitor to YouTube](https://www.wired.com/story/with-igtv-instagram-takes-aim-at-youtube/). Considering how Instagram has surpassed Snapchat, there’s plenty of talk about whether IGTV will outrun YouTube as the major video viewing platform. 
