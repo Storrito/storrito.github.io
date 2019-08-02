@@ -68,12 +68,17 @@ it:
 
 <a href="https://app.storrito.com/#/instagram/connect" target="_blank">https://app.storrito.com/#/instagram/connect</a>
 
-Then choose the 'Manual' connect option (see orange oval):
+Then click on `CONNECT AN INSTAGRAM ACCOUNT`  
+![Instagram-connect step 1](/images/instagram-sessionid-cookie/instagram-connect-1.png "Instagram Connect step 1")
 
-![Instagram-connect](/images/instagram-sessionid-cookie/instagram-connect.png "Instagram Connect")
+Type in your Instagram account name and click on `CONNECT AN INSTAGRAM ACCOUNT`  
+![Instagram-connect step 2](/images/instagram-sessionid-cookie/instagram-connect-2.png "Instagram Connect step 2")
+
+Choose `I DON'T WANT TO USE MY CREDENTIALS.`  
+![Instagram-connect step 3](/images/instagram-sessionid-cookie/instagram-connect-3.png "Instagram Connect step 3")
 
 On the next page (shown below) you paste the copied `sessionid` (see
-orange oval), then click on the `CONNECT` button (see green oval).
+orange oval), then click on the `CONNECT` button (see orange arrow).
 
 ![Manual-Instagram-connect](/images/instagram-sessionid-cookie/manual-instagram-connect.png "Manual Instagram Connect")
 
