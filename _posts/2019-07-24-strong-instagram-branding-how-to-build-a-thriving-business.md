@@ -3,7 +3,7 @@ layout: post
 title: "Strong Instagram Branding: How to Build a Thriving Business"
 image: /images/strong/smartphone.jpeg
 description: "Strong Instagram Branding: How to Build a Thriving Business"
-author: Storrito
+author: Ester Brierley
 twitter:
   username: StorritoFresh
 categories: Instagram
@@ -58,5 +58,5 @@ If youâ€™re still not sure whether your brand needs the Instagram presence, donâ
   
 **About the Author**
 
-Ester Brierley is a competent virtual assistant for [College Writers](https://college-writers.com/). She knows the secret for balancing freelancing and her full-time job as a QA Engineer in a software outsourcing company. Also, Ester had found herself as a seasoned content creator for many websites. Follow her on [Twitter](https://twitter.com/esterbrierley).
+*Ester Brierley is a competent virtual assistant for [College Writers](https://college-writers.com/). She knows the secret for balancing freelancing and her full-time job as a QA Engineer in a software outsourcing company. Also, Ester had found herself as a seasoned content creator for many websites. Follow her on [Twitter](https://twitter.com/esterbrierley).*
 

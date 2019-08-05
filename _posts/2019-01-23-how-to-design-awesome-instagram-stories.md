@@ -3,7 +3,7 @@ layout: post
 title: How to Design Awesome Instagram Stories
 image: /images/awesome-stories/awesome.jpg
 description: We collected some valueable tips on how to create awesome Instagram Stories
-author: Storrito
+author: Elisa Abbott
 twitter:
   username: StorritoFresh
 categories: Instagram
@@ -99,6 +99,6 @@ If you want to manage your Stories in a hassle-free way, try [Storrito](http://s
 
 Even more, if you are struggling to manage your Instagram account from a desktop browser, [Storrito](https://storrito.com) will become your magic wand. This tool will facilitate your work and instantly boost your marketing efforts.
 
- 
+**About the Author**
 
 *Elisa Abbott is a freelancer whose passion lies in creative writing. She completed a degree in Computer Science and writes about ways to apply machine learning to deal with complex issues. Insights on education, helpful tools and valuable university experiences – she has got you covered;) When she’s not engaged in assessing translation services for [PickWriters](https://pickwriters.com/) you’ll usually find her sipping cappuccino with a book.*

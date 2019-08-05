@@ -3,7 +3,7 @@ layout: post
 title: 3 New Additions Coming to Instagram Stories
 image: /images/new-additions/instagram.png
 description: 3 New Additions Coming to Instagram Stories
-author: Storrito
+author: Angelina Harper
 twitter:
   username: StorritoFresh
 categories: Instagram

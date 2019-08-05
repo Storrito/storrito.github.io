@@ -3,7 +3,7 @@ layout: post
 title: 5 Key Tips for Reducing Bounce Rates on Instagram Stories
 image: /images/reduce-bounces/bounce.jpg
 description: 5 Key Tips for Reducing Bounce Rates on Instagram Stories
-author: Storrito
+author: Angelina Harper
 twitter:
   username: StorritoFresh
 categories: Instagram

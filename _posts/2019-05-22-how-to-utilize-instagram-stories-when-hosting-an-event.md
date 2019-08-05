@@ -3,7 +3,7 @@ layout: post
 title: How to Utilize Instagram Stories when Hosting an Event
 image: /images/hosting-event/crowd.jpg
 description: How to Utilize Instagram Stories when Hosting an Event
-author: Storrito
+author: Angelina Harper
 twitter:
   username: StorritoFresh
 categories: Instagram

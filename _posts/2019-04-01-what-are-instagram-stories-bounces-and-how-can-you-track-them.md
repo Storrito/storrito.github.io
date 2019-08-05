@@ -3,7 +3,7 @@ layout: post
 title: What are Instagram Stories Bounces and How Can You Track Them?
 image: /images/stories-bounces/track.jpg
 description: What are Instagram Stories Bounces and How Can You Track Them?
-author: Storrito
+author: Angelina Harper
 twitter:
   username: StorritoFresh
 categories: Instagram

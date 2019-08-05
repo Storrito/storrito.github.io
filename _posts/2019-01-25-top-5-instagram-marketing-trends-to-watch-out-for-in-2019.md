@@ -3,7 +3,7 @@ layout: post
 title: Top 5 Instagram Marketing Trends to Watch Out for in 2019
 image: /images/top-marketing-trends/trends.jpg
 description: Top 5 Instagram Marketing Trends to Watch Out for in 2019
-author: Storrito
+author: Angelina Harper
 twitter:
   username: StorritoFresh
 categories: Instagram

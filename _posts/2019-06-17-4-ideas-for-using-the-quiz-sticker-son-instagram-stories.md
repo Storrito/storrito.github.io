@@ -3,7 +3,7 @@ layout: post
 title: 4 Ideas for Using the Quiz Sticker on Instagram Stories
 image: /images/quiz-sticker/quiz.png
 description: 4 Ideas for Using the Quiz Sticker on Instagram Stories
-author: Storrito
+author: Angelina Harper
 twitter:
   username: StorritoFresh
 categories: Instagram
