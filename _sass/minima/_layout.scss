@@ -246,6 +246,8 @@
 
   h2 {
     font-weight: bolder;
+    line-height: 1;
+    margin: 20px 0px 35px 0px;
     @include relative-font-size(1.75);
 
     @include media-query($on-laptop) {
