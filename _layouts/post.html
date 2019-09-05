@@ -16,7 +16,8 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card"
+          itemprop="name">{{ page.author }}</span></span>
       {% endif %}</p>
   </header>
 
@@ -25,12 +26,32 @@ layout: default
   </div>
 
   {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
+  {% include disqus_comments.html %}
   {% endif %}
 
-  <p>
-    <a class="page-link" href="{{ "/" | relative_url }}"> Back to all Posts </a>
-  </p>
+  <footer class="post-footer">
+    <img src="/images/burrito.svg"
+      style="align-self:center; object-fit:cover; object-position: top; height:160px; width:90px;">
+    <div class="post-footer-panel">
+      <div style="text-align: center;">
+        Storrito.com is a tool that lets you create and schedule Instagram Stories directly from your <b>desktop
+          browser.</b>
+      </div>
+      <ul>
+        <li> Post and schedule videos and images </li>
+        <li> Online editor to add <b>working</b> interactive elements such as hashtags, locations, quizzes, polls and much more... </li>
+        <li> Add awesome <b>Gif animations</b> to your images and videos </li>
+        <li> Connect and manage as many Instagram accounts as you want with Storrito </li>
+      </ul>
+      <a class="page-link storrito-app-link" href="https://storrito.com/">
+        Try it out for FREE
+      </a>
+    </div>
+    <br>
+    <p>
+      <a class="page-link" href="{{ "/" | relative_url }}"> Back to all Posts </a>
+    </p>
 
+  </footer>
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
