@@ -56,4 +56,4 @@ As always, don’t leave your Stories bare – make sure to use all that Instagr
 
 Wrapping up, this post has hopefully offered useful insights to maximize the effectiveness of UGC for your brand. But keep in mind that it’s not about you only, and Instagram audiences expect a certain sense of mutual respect in their interactions with brands. Apart from crediting the original post creator, make sure to give them thanks and express your gratitude consistently. You can do that when you’re customizing the Story, by adding a quick shout-out or heartfelt thanks in text. That’s how reposting UGC will also help you interact with your followers and build brand loyalty.
 
-Written by Angelina Harper.
+*Written by Angelina Harper*
