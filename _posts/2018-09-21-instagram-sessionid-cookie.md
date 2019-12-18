@@ -17,25 +17,54 @@ into your Instagram account. This is required to let Storrito post
 stories on your Instagram account.
 
 <!--more-->
-We recommend to use our [Chrome
-extension](https://chrome.google.com/webstore/detail/plnpnichbepfpgbhineljllbhdpglkpn)
-or [Firefox
-Add-On](https://addons.mozilla.org/de/firefox/addon/storrito/) to do
-the Instagram Connect for your Storrito account. If you still want to
-do it manually, please find the instructions below.
 
-A cookie has name and contains a text. For the Instagram Connect we
-need the `sessionid` cookie. The section below describes how to
-extract this cookie.
+## Get the session ID with a browser extension
 
-## How to get the Instagram sessionid cookie
+### Google Chrome - Cookie Tab Viewer:
 
-1. Open Google Chrome, Firefox or Edge
+1. Install the extension [Cookie Tab Viewer](https://chrome.google.com/webstore/detail/cookie-tab-viewer/fdlghnedhhdgjjfgdpgpaaiddipafhgk) and allow the extension to work in incognito:
+    1. Right click on the extension icon
+    2. Click on "Manage Extensions"
+    3. Activate the “Allow in Incognito” check box.
+
+2. Open an incognito window in Google Chrome
+
+3. Go to [https://www.instagram.com/](https://www.instagram.com/) and log into your Instagram account
+
+4. Click on the extension icon:
+  ![cookie tab viewer 1](/images/instagram-sessionid-cookie/cookie-tab-viewer-1.png)
+
+5. Copy the sessionid cookie by clicking on the copy button:  
+  ![cookie tab viewer 2](/images/instagram-sessionid-cookie/cookie-tab-viewer-2.png)
+
+6. Please paste the `session-id` into the proper input field on Storrito (see [Connect your Instagram account to Storrito](#connect-your-ig-account))
+
+### Firefox - Cookie Quick Manager:
+
+1. Install the addon [Cookie Quick Manager](https://addons.mozilla.org/de/firefox/addon/cookie-quick-manager/) and allow it to run in Private Windows:
+   ![cookie quick manager](/images/instagram-sessionid-cookie/cookie-quick-manager.png)
+
+2. Open a private firefox window
+
+3. Go to [https://www.instagram.com/](https://www.instagram.com/) and log into your Instagram account
+
+4. Click on the browser addon icon and select:
+  ![cookie quick manager](/images/instagram-sessionid-cookie/cookie-quick-manager-2.png)
+
+5. From left to right: Select the **.instagram.com** domain, Click on the first cookie called **sessionid**, Copy the cookie from the marked textbox:
+  ![cookie quick manager](/images/instagram-sessionid-cookie/cookie-quick-manager-3.png)
+
+6. Please paste the `session-id` into the proper input field on Storrito (see [Connect your Instagram account to Storrito](#connect-your-ig-account))
+
+
+## How to get the Instagram sessionid cookie manually (Google Chrome, Firefox, Edge)
+
+1. Open your browser
 
 2. Open an incognito window in Google Chrome (in Firefox it is called
 private window).
 
-3. Go to https://www.instagram.com/
+3. Go to https://www.instagram.com/ and log into your Instagram account
 
 2. Open Development console by doing a right click on the webpage and
 select "Inspect" or "Inspect Element" from the menu.
@@ -60,10 +89,9 @@ Edge:
 
 ![Edge](/images/instagram-sessionid-cookie/edge.png "Edge")
 
+## <a id="connect-your-ig-account"></a> Connect your Instagram account to Storrito
 
-## Connect your Instagram account to Storrito
-
-If you have not opened Storrito's Instagram Connect page, please open
+If you have not opened Storrito's Instagram Connect page yet, please open
 it:
 
 <a href="https://app.storrito.com/#/instagram/connect" target="_blank">https://app.storrito.com/#/instagram/connect</a>
@@ -71,14 +99,12 @@ it:
 Then click on `CONNECT AN INSTAGRAM ACCOUNT`  
 ![Instagram-connect step 1](/images/instagram-sessionid-cookie/instagram-connect-1.png "Instagram Connect step 1")
 
-Type in your Instagram account name and click on `CONNECT AN INSTAGRAM ACCOUNT`  
+Choose `USE AN ALTERNATIVE METHOD`  
 ![Instagram-connect step 2](/images/instagram-sessionid-cookie/instagram-connect-2.png "Instagram Connect step 2")
 
-Choose `I DON'T WANT TO USE MY CREDENTIALS.`  
-![Instagram-connect step 3](/images/instagram-sessionid-cookie/instagram-connect-3.png "Instagram Connect step 3")
-
-On the next page (shown below) you paste the copied `sessionid` (see
-orange oval), then click on the `CONNECT` button (see orange arrow).
+On the next page (shown below) you need paste the `sessionid` (see
+green rectangle) and then click on the `CONNECT` button (see green arrow).
+**Please see the tutorials further up to get the `sessionid` for your Instagram account.**
 
 ![Manual-Instagram-connect](/images/instagram-sessionid-cookie/manual-instagram-connect.png "Manual Instagram Connect")
 
