@@ -194,6 +194,20 @@
   @include relative-font-size(2);
 }
 
+.author-image {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  padding-right: 16px;
+}
+
+.author-description {
+  font-style: italic;
+  display: flex;
+  align-items: center;
+}
+
+
 .post-list-heading {
   font-weight: bolder;
   @include relative-font-size(1.75);
@@ -220,8 +234,6 @@
   line-height: 1;
   font-weight: bolder;
 }
-
-
 
 /**
  * Posts

@@ -22,8 +22,6 @@ url: "https://blog.storrito.com" # the base hostname & protocol for your site, e
 youtube_username: Storrito
 youtube_channel_link: channel/UChI8RtO_ryV-Sm3fwaHQjxw/videos
 twitter_username: StorritoFresh
-facebook_username: storrito
-instagram_username: StorritoFresh
 show_excerpts: true
 excerpt_separator: "<!--more-->"
 
