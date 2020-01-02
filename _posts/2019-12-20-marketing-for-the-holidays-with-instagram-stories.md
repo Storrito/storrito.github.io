@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marketing for the holidays with Instagram Stories"
-image: /images/christmas-2019/cover.jpg
+image: /images/christmas-2019/cover.jpeg
 description: "Marketing for the holidays with Instagram Stories"
 author: Ash Salleh
 twitter:
