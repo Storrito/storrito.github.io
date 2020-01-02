@@ -20,6 +20,7 @@ Once you post your question and the possible answers, you’ll be able to track 
 The feature has already proven to be a great way to [generate more engagement](https://blog.storrito.com/instagram/2018/11/22/How-to-Use-Instagram-Stories-to-Boost-Audience-Engagement.html) and facilitate interaction with audiences. It’s no surprise that it’s already popular among brand accounts, influencers, and anyone else seeking to engage their followers in a fun way. Let’s look into some ideas for using it and reasons why you should make the Quiz sticker a part of your [Instagram marketing](https://blog.storrito.com/instagram/2019/01/25/top-5-instagram-marketing-trends-to-watch-out-for-in-2019.html) efforts.
 
 ![Quiz Sticker](/images/quiz-sticker/quiz-sticker.png)
+
 Source: [@MattNavarra](https://twitter.com/MattNavarra/status/1120733888333131776)
 
 ## Get followers involved in your brand’s story
