@@ -20,6 +20,8 @@ Today, we will take a look at nine Instagram accounts with the best stories. We 
 ![cover](/images/best-stories/cover.jpg)
 <!--more-->
 
+[Photo by Suzy Hazelwood at Pexels](https://www.pexels.com/de-de/@suzyhazelwood?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+
 ## Top 5 Brands with the Best Instagram Stories
 
 ### [Tiffany & Co.](https://www.instagram.com/tiffanyandco/)
@@ -147,11 +149,11 @@ Whether you use Instagram to promote your business or build your personal brand,
 We hope that these nine examples have inspired you to find your own way to design original Instagram stories that stand out.
 
 <div class="author-description">
-    <img class="author-image" src="/images/christmas-2019/ash-salleh.jpg" alt="Ash Salleh"/>
+    <img class="author-image" src="/images/best-stories/author.jpg" alt="Ash Salleh"/>
     <p>
-      <b> Dorian Martin </b> is a writer at [WowGrade](https://wowgrade.net/) and reviewer at French
-      translation site reviews site [IsAccurate](https://isaccurate.com/french-translation-services). He knows how to craft the
-      [best essays](https://bestessay.education/) and the most engaging social media posts. He is passionate
+      <b> Dorian Martin </b> is a writer at <a href="https://wowgrade.net/"> WowGrade </a> and reviewer at French
+      translation site reviews site  <a href="https://isaccurate.com/french-translation-services"> IsAccurate </a>. He knows how to craft the
+      <a href="https://bestessay.education"> best essays </a> and the most engaging social media posts. He is passionate
       about emerging technologies, psychology, and blogging. 
     </p>
 </div>
