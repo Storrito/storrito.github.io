@@ -38,7 +38,7 @@ Such stories help Tiffany & Co. to attract new customers. Once people get a clea
 
 ### [Away](https://www.instagram.com/away/)
 
-Away is a company that sells suitcases. As for today, Away has more than 558K followers on Instagram. Can you guess what a secret of the company’s success is? The wise [use of user-generated](https://sproutsocial.com/insights/instagram-stories/) content and Instagram stories.
+Away is a company that sells suitcases. As for today, Away has more than 558K followers on Instagram. Can you guess what the secret of the company’s success is? The wise use of user-generated content and Instagram stories.
 
 Here is how Away’s strategy works. The company encourages customers to create and share visual content. Every day, marketers choose from five to eight pictures published by customers and create a series of stories. They also write short captions to connect one picture to another and to convey a specific message.  
 
@@ -48,7 +48,7 @@ Here is how Away’s strategy works. The company encourages customers to create 
 
 If you have a goal to [scale your business](https://notbusinessasususal.com/2020/02/how-to-scale-your-business-using-different-digital-marketing-tools/), feel free to use the same approach to marketing. Try to collect as many pieces of user-generated content as possible and then try to unite them in one meaningful story.
 
-Can’t come up with the relevant captions? Consider using writing services like [GrabMyEssay](https://www.grabmyessay.com/) and [Studicus](https://studicus.com/). Or, if you want to get assistance from social media consultants, visit freelance platforms like [PeoplePerHour](https://www.peopleperhour.com/) and [Upwork](https://www.upwork.com/).
+Can’t come up with the relevant captions? Consider using writing services like [GrabMyEssay](https://www.grabmyessay.com/) and Studicus. Or, if you want to get assistance from social media consultants, visit freelance platforms like PeoplePerHour and Upwork.
 
 ### [Swatch](https://www.instagram.com/swatch/)
 
@@ -69,7 +69,7 @@ Swatch created a fun game where users need to help the penguin to deliver the ke
 [Source](https://www.instagram.com/stories/highlights/17917560625371992/)
 
 
-“People do love to play games, no matter how old they are. So whether you target teens or adults, don’t hesitate to use gamification when crafting your stories. It will allow you to boost your Instagram marketing efforts and take your account to the next level,” says Estelle Liotard, marketer at [TrustMyPaper](https://www.trustmypaper.com/).
+“People do love to play games, no matter how old they are. So whether you target teens or adults, don’t hesitate to use gamification when crafting your stories. It will allow you to boost your Instagram marketing efforts and take your account to the next level,” says Estelle Liotard, marketer at TrustMyPaper.
 
 ### [DSW](https://www.instagram.com/dsw/)
 
@@ -97,7 +97,7 @@ Ellen DeGeneres and her team use Instagram stories for multiple purposes. Most o
 
 Riva G is a yogi, writer, and content creator from New York. She has more than 509K followers on Instagram, and she is famous for her unordinary approach to capturing yoga photos. However, the quality pictures are not the only thing that makes Riva’s profile stand out.
 
-In contrast to other yoga influencers, Riva uses Instagram stories to interact with her followers on a daily basis. She takes advantage of Poll, Questions, and other stickers to engage the audience in a meaningful way.
+In contrast to other yoga influencers, Riva uses Instagram stories to interact with her followers on a daily basis. She takes advantage of [Poll, Questions, and other stickers](https://www.forbes.com/sites/forbeslacouncil/2018/08/16/eight-ways-to-use-instagram-stories-to-drive-engagement/#5113dd403ea1) to engage the audience in a meaningful way.
 
 Noteworthy, the vast majority of Riva’s stories relate not to yoga, but to everyday life in general. Riva chooses the topics that resonate with her followers, and that’s how she establishes a deeper emotional connection with her audience.
 
@@ -117,7 +117,7 @@ Besides, Raquel and Miguel adorn each [story with stickers](https://blog.storrit
 
 ![](/images/best-stories/p8.jpg)
 
-Keep in mind that if you write the caption in a few languages, you should double-check the correctness of the translation. If English is not your native language, use such proofreading services like [Grammarly](https://grammarly.com/) and [SupremeDissertations](https://supremedissertations.com/).
+Keep in mind that if you write the caption in a few languages, you should double-check the correctness of the translation. If English is not your native language, use such proofreading services like Grammarly and [SupremeDissertations](https://supremedissertations.com/).
 
 ### [The Young Travelier](https://www.instagram.com/theyoungtravelier/)
 
@@ -153,7 +153,7 @@ We hope that these nine examples have inspired you to find your own way to desig
     <p>
       <b> Dorian Martin </b> is a writer at <a href="https://wowgrade.net/"> WowGrade </a> and reviewer at French
       translation site reviews site  <a href="https://isaccurate.com/french-translation-services"> IsAccurate </a>. He knows how to craft the
-      <a href="https://bestessay.education"> best essays </a> and the most engaging social media posts. He is passionate
+      best essays  and the most engaging social media posts. He is passionate
       about emerging technologies, psychology, and blogging. 
     </p>
 </div>
