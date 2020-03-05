@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "9 Instagram Accounts with the Best Stories"
+title: "9 Instagram Accounts with the best Stories"
 image: /images/best-stories/cover.jpg
-description: "9 Instagram Accounts with the Best Stories"
+description: "9 Instagram Accounts with the best Stories"
 author: Dorian Martin
 twitter:
   username: StorritoFresh
