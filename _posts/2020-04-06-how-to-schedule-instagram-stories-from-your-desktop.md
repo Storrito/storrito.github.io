@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Schedule Instagram Stories from Your Desktop – for Free"
-image: /images/best-stories/cover.jpg
+image: /images/desktop/cover.jpeg
 description: "How to Schedule Instagram Stories from Your Desktop – for Free"
 author: Storrito
 twitter:
