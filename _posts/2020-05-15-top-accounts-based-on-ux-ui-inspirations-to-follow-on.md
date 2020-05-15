@@ -7,7 +7,7 @@ author: Rooney Reeves
 twitter:
   username: StorritoFresh
 categories: Instagram
-tags: Instagram stories schedule post pc compter
+tags: Instagram top UX UI Inspiration accounts
 ---
 
 ## The Importance of a Great UI and UX Design
