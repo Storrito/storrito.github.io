@@ -195,6 +195,10 @@
 }
 
 .author-image {
+  display: flex;
+  object-fit: scale-down;
+  justify-content: start;
+  max-width: 100%;
   border-radius: 50%;
   width: 200px;
   height: 200px;
@@ -202,6 +206,7 @@
 }
 
 .author-description {
+  margin-top: 60px;
   font-style: italic;
   display: flex;
   align-items: center;
