@@ -52,7 +52,10 @@ main {
  * Images
  */
 img {
-  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  object-fit: scale-down;
   vertical-align: middle;
 }
 
