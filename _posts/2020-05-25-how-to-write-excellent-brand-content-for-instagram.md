@@ -127,5 +127,11 @@ All in all, Instagram brand partnerships may be useful for your overall digital 
 but you need to remember that the main branded content is the one you create for your business
 account on your own.
 
+<div class="author-description">
+    <p>
+      This article was written by <b> Ana Mayer </b>, a project manager with 3+ years of experience. While projects
+can do without her participation (which means almost never), she likes to read and create expert academic materials for the <a href="http://bestwritersonline.com/"> Best Writers Online </a> review website. Such work gives her the opportunity to write articles on the most relevant topics of today.
+    </p>
+</div>
 
-Written by Ana Mayer.
+
