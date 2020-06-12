@@ -85,7 +85,7 @@ audience which is looking for content that will make them feel something when th
 
 ## #4 Curating User-Generated ConAna Mayernt
 
-That being said, you don’t always have to create your own [brand content](https://www.logobee.com/logo-maker/)
+That being said, you don’t always have to create your own [brand content](https://shanebarker.com/blog/content-writing-tools/)
 because user-generated content or UGC can also be used in your social media strategy.
 User-generated content is the one created by your followers who are either reviewing your
 products or just sharing something they want you to see.
@@ -95,9 +95,11 @@ Your responsibility is to reply to these posts in some way and, if the content i
 for you, share it in some way. You can even share it no matter how good or bad it is because
 showing that you care will already mean a lot to your audience.
 
-On Instagram, you can repost the content on your Stories. On Twitter, you can retweet other
-people’s tweets. On Facebook, you can share content. And most other social media platforms have
-some kind of sharing buttons for you to use when you want to curate UGC.
+With the help of a [logo design maker](https://www.logobee.com/logo-maker), you can first
+create image covers for your posts. On Instagram, you can repost the content on your Stories.
+On Twitter, you can retweet other people’s tweets. On Facebook, you can share content. And
+most other social media platforms have some kind of sharing buttons for you to use when
+you want to curate UGC.
 
 ## #5 Staying Relevant
 
