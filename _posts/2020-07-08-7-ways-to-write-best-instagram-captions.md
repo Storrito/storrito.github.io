@@ -84,7 +84,7 @@ As you read through these seven tips on bettering your Instagram captions, we ho
 
 <div class="author-description">
     <p>
-      <b> Beatrix Potter </b> writes and edits for <a href="https://academized.com"> Academized</a> and <a href="https://ukwritings.com"> UkWritings </a>. She also offers her proofreading services at <a href="https://boomessays.com"> BoomEssays </a>. As a writer, her favorite writing topics are Instagram marketing and digitalization.
+      <b> Beatrix Potter </b> writes and edits for <a href="https://academized.com"> Academized</a> and <a href="https://ukwritings.com"> UkWritings </a>. As a writer, her favorite writing topics are Instagram marketing and digitalization.
     </p>
 </div>
 
