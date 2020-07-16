@@ -52,4 +52,4 @@ Right before you schedule it for the weekend or post it right away, you can may 
 
 And that's it! You just created and posted an engaging teaser video for your podcast on your story!
 
-Make sure to [grab a free audiocado account](https://audiocado.com?ref=storrito-blog) and render as many 15s story videos you like for free.
+Make sure to [grab a free audiocado account](https://audiocado.com?ref=storrito-blog) and render **unlimited 15s story videos** you like for free.
