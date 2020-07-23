@@ -14,7 +14,7 @@ tags: Instagram stories schedule creator online storitto storrito pc computer de
 
 Storrito's Manual Instagram Connect uses a so-called cookie to log
 into your Instagram account. This is required to let Storrito post
-stories on your Instagram account.
+stories on your behalf.
 
 <!--more-->
 
@@ -27,7 +27,7 @@ stories on your Instagram account.
     2. Click on "Manage Extensions"
     3. Activate the “Allow in Incognito” check box.
 
-2. Open an incognito window in Google Chrome
+2. **Open an incognito window in Google Chrome. This is an important step!**
 
 3. Go to [https://www.instagram.com/](https://www.instagram.com/) and log into your Instagram account
 
@@ -61,8 +61,7 @@ stories on your Instagram account.
 
 1. Open your browser
 
-2. Open an incognito window in Google Chrome (in Firefox it is called
-private window).
+2. **Open an incognito window in Google Chrome (in Firefox it is called private window). This is an important step!**
 
 3. Go to https://www.instagram.com/ and log into your Instagram account
 
