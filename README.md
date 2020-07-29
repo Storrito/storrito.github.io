@@ -2,7 +2,7 @@
 
 To start the jekyll service and serve the site on http://localhost:4500/ run:
 
-  bin/dev
+    bin/dev
 
 Make sure you have installed Docker on your machine.
 
