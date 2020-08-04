@@ -1,0 +1,8 @@
+#!/bin/bash
+
+export JEKYLL_VERSION=3.6
+docker run --rm \
+  --volume="$PWD:/srv/jekyll" \
+  -p 4500:4500 \
+  -it jekyll/jekyll:$JEKYLL_VERSION \
+  jekyll serve --port 4500

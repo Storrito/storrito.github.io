@@ -1,14 +1,13 @@
-## Start jekyll 
+## Start jekyll
 
 To start the jekyll service and serve the site on http://localhost:4500/ run:
-  bundle exec jekyll serve --port 4500
 
-When you changed something in _config.yml run
+    bin/dev
 
-  bundle exec jekyll serve --port 4500
+Make sure you have installed Docker on your machine.
 
-again.
-
+Restart the process as soon as you change something in `_config.yml`
+file.
 
 ## Tools
 
