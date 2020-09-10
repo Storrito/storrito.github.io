@@ -101,7 +101,6 @@ Pavana Reddy writes under the Instagram handle @mazadohta and posts about a vari
 Many writers post constructive content that motivates and inspires followers to love themselves better and do more in life. Some writers interject humor to get their message across. Regardless of what writing style you prefer, you’ll find the perfect Instagram writers to follow for inspiration. This list can help you get started on identifying top inspirational writers currently on Instagram.
 
 <div class="author-description">
-    <img class="author-image" src="/images/new-technologies/author.png" alt="Artur Meyster"/>
     <p>
       <b> Charlie Svensson</b> is a fast, engaging freelance writer working for the <a href="https://www.bestessaytips.com/review_essay.php/"> best essay writing services  </a> best essay writing services in the academic writing field. His ability to go deep in a subject and pick up the details combined with his high-level writing skills put him at the top of the table. His audience includes students from the top universities, website owners and academic book publishers. 
       Please let me know if you have any questions.
