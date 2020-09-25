@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Use Instagram Reels for Social Media Marketing"
-image: /images/new-technologies/cover.jpg
+image: /images/reels/cover.jpg
 description: "Instagram Reels was officially launched on August 5, 2020, in over 50 countries across the globe"
 author: Beau Peters
 twitter:
