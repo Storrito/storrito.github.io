@@ -24,7 +24,7 @@ Sign in at [Storrito.com](https://app.storrito.com) to your Storrito account. Up
 
 ![How to post](/images/how-to-post/upload.jpg "Upload Screenshot")
 
-You can add a emoji easily in our editor to your Instagram story. Just click on the “ADD” Button in the upper right corner of the editor view. A new dialog will appear and you can choose your desired emoji.
+You can add an emoji easily in our editor to your Instagram story. Just click on the “ADD” Button in the upper right corner of the editor view. A new dialog will appear, and you can choose your desired emoji.
 
 ![How to post](/images/emoticons/emoji-story.png "Storrito Instagram Editor - Emoticons Dialog")
 
@@ -32,7 +32,7 @@ After you have added the emoji to your Instagram story drag it to your desired p
 
 ![How to post](/images/emoticons/emoji-story-instagram.png "Storrito Instagram Editor ")
 
-You can add as many emoji and resize them as you want. Our emojis are always as sharp as you Instagram Story.  
+You can add as many emojis and resize them as you want. Our emojis are always as sharp as your Instagram Story ;)
 
 ![How to post](/images/emoticons/story.png "Storrito Instagram Story with Emoticons"){:width="100%"}
 
