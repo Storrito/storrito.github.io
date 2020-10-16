@@ -29,6 +29,8 @@ fields:
 - type: text
   name: categories
   label: categories
+  hidden: false
 - type: text
   name: tags
   label: tags
+  hidden: false
