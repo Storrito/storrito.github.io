@@ -34,3 +34,5 @@ fields:
   name: tags
   label: tags
   hidden: false
+pages:
+- _posts/schedule-facebook-stories-from-desktop.md
