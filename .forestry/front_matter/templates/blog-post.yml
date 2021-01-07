@@ -1,0 +1,38 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: post
+- type: text
+  name: title
+  label: title
+- type: file
+  name: image
+  label: image
+- type: text
+  name: description
+  label: description
+- type: text
+  name: author
+  label: author
+- type: field_group
+  name: twitter
+  label: twitter
+  fields:
+  - type: text
+    name: username
+    label: username
+- type: text
+  name: categories
+  label: categories
+  hidden: false
+- type: text
+  name: tags
+  label: tags
+  hidden: false
+pages:
+- _posts/2020-10-16-schedule-facebook-stories-from-desktop.md
