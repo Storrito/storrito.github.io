@@ -8,6 +8,7 @@ twitter:
   username: StorritoFresh
 categories: guide
 tags: Instagram Story Mention sticker How-To Business Marketing
+redirect_to: https://storrito.com/resources/how-businesses-are-using-the-mention-sticker/
 ---
 
 [![cover image](https://storrito.com/resources/img/how-businesses-are-using-the-mention-sticker/cover.jpg)](https://storrito.com/resources/how-businesses-are-using-the-mention-sticker/)

@@ -8,6 +8,7 @@ twitter:
   username: StorritoFresh
 categories: guide
 tags: Instagram Stories interactive stickers guide
+redirect_to: https://storrito.com/resources/should-you-share-your-instagram-story-to-facebook-stories/
 ---
 
 [![cover image](https://storrito.com/resources/img/should-you-share-your-instagram-story-to-facebook-stories/cover.jpg)](https://storrito.com/resources/should-you-share-your-instagram-story-to-facebook-stories/)

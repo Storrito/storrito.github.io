@@ -8,6 +8,7 @@ twitter:
 username: StorritoFresh
 categories: guide
 tags: Instagram Story location guide Business
+redirect_to: https://storrito.com/resources/all-about-the-instagram-location-sticker/
 ---
 
 [![cover image](https://storrito.com/resources/img/all-about-the-instagram-location-sticker/cover.jpg)](https://storrito.com/resources/all-about-the-instagram-location-sticker/)

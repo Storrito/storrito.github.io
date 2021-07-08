@@ -8,6 +8,7 @@ twitter:
   username: StorritoFresh
 categories: Instagram
 tags: Instagram stories marketing invisible hashtags user mentions
+redirect_to: https://storrito.com/resources/add-invisible-hashtags-and-mentions-to-your-instagram-story/
 ---
 
 In this post we want to show you the absolutely best way to add invisible hashtags and mentions to your Instagram story in **4 easy steps** so stand by!

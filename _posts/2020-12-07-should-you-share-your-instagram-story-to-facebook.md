@@ -8,6 +8,7 @@ twitter:
   username: StorritoFresh
 categories: guide
 tags: Instagram Stories interactive stickers guide
+redirect_to: https://storrito.com/resources/interactive-stickers-on-instagram-the-ultimative-guide/
 ---
 
 [![cover image](https://storrito.com/resources/img/interactive-stickers-on-instagram-the-ultimative-guide/cover.jpg)](https://storrito.com/resources/interactive-stickers-on-instagram-the-ultimative-guide/)

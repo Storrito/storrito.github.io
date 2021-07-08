@@ -8,6 +8,7 @@ twitter:
   username: StorritoFresh
 categories: guide
 tags: Instagram Story Question sticker Guide Business Marketing
+redirect_to: https://storrito.com/resources/how-to-use-instagram-stories-question-stickers-to-engage-with-your-audience-and-strengthen-your-business/
 ---
 
 [![cover image](https://storrito.com/resources/img/how-to-use-instagram-stories-question-stickers-to-engage-with-your-audience-and-strengthen-your-business/cover.jpg)](https://storrito.com/resources/how-to-use-instagram-stories-question-stickers-to-engage-with-your-audience-and-strengthen-your-business/)

@@ -8,6 +8,7 @@ twitter:
   username: StorritoFresh
 categories: guide
 tags: Instagram Story hashtag guide Business
+redirect_to: https://storrito.com/resources/5-ways-to-use-hashtag-stickers-in-instagram-stories-to-help-your-business/
 ---
 
 [![cover image](https://storrito.com/resources/img/5-ways-to-use-hashtag-stickers-in-instagram-stories-to-help-your-business/cover.jpg)](https://storrito.com/resources/5-ways-to-use-hashtag-stickers-in-instagram-stories-to-help-your-business/)

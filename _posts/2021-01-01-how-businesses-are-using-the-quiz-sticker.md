@@ -8,6 +8,7 @@ twitter:
   username: StorritoFresh
 categories: guide
 tags: Instagram Story Quiz sticker Guide Business Marketing
+redirect_to: https://storrito.com/resources/5-clever-ways-to-use-the-quiz-sticker/
 ---
 
 [![cover image](https://storrito.com/resources/img/5-clever-ways-to-use-the-quiz-sticker/cover.jpg)](https://storrito.com/resources/5-clever-ways-to-use-the-quiz-sticker/)

@@ -8,6 +8,7 @@ twitter:
   username: StorritoFresh
 categories: guide
 tags: Holidays Christmas Instagram story Ney Year Thanksgiving
+redirect_to: https://storrito.com/resources/instagram-stories-for-he-holidays-2020/
 ---
 
 [![cover image](https://storrito.com/resources/img/instagram-stories-for-he-holidays-2020/cover.jpg)](https://storrito.com/resources/instagram-stories-for-he-holidays-2020/)
